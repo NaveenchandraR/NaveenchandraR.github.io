@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+<b>[Design and Development of an Open-frame AUV: ANAHITA](https://ieeexplore.ieee.org/document/8729807)</b> <br> 
+Akash Jain, <b>Naveen Chandra R</b>, Manish Kumar.
+<i>2018 IEEE/OES Autonomous Underwater Vehicle Workshop (AUV)</i>. <b>IEEE OES 2018</b>.
