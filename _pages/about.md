@@ -12,6 +12,11 @@ I am Naveen Chandra, a senior student in the Department of Aerospace Engineering
 
 Since the start of my undergraduate, I have been a part of the Autonomous Underwater Vehicle team (AUV-IITK) at our institute. Over these years, we built two fully-functional underwater vehicles and participated at various national and international competitions Recently, we achieved the first- runners up position at the national level. My role in the team has been diverse, varying from designing and fabrication of the vehicle to working on its control architecture.  In order to improve our controller from manual PID tuning, one of my main contributions has been to do system identification for the vehicle through dynamics simulation of the vehicle underwater in ANSYS. We published the results of our work at the IEEE OES Symposium 2018 held in Porto, Portugal. Through my interactions during the conference with other research scientists working in this field, I realized the potential that autonomous vehicles carry in the future and how all these efforts seem like baby-steps to achieve a complete autonomy of these systems. Currently, we are aiming to deploy our AUV in the river Ganga to map the Dolphin population and also to monitor the sewage drainage coming into the river. This brings with a lot of new challenges compared to testing in a swimming pool, and I am now combining the results that we have got from the simulations of the vehicle dynamics and building a new controller for the vehicle.
 
+News
+======
+
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
